@@ -1,0 +1,64 @@
+{
+    "restaurants": [
+        {
+            "id": "18347530",
+            "name": "Kobe Wagyu Yakiniku",
+            "latitude": "-33.8776283458",
+            "longitude": "151.2053224817"
+        },
+        {
+            "id": "16558906",
+            "name": "Ryo's Noodles",
+            "latitude": "-33.8285150000",
+            "longitude": "151.2066320000"
+        },
+        {
+            "id": "16559119",
+            "name": "Sydney Madang",
+            "latitude": "-33.8759840793",
+            "longitude": "151.2074685842"
+        },
+        {
+            "id": "16566248",
+            "name": "Méjico",
+            "latitude": "-33.8660162012",
+            "longitude": "151.2085451558"
+        },
+        {
+            "id": "16560990",
+            "name": "Black Star Pastry",
+            "latitude": "-33.8970540119",
+            "longitude": "151.1784759164"
+        },
+        {
+            "id": "16557398",
+            "name": "Bourke Street Bakery",
+            "latitude": "-33.8894699144",
+            "longitude": "151.2150052562"
+        },
+        {
+            "id": "16567840",
+            "name": "Three Williams",
+            "latitude": "-33.8918275108",
+            "longitude": "151.2074068934"
+        },
+        {
+            "id": "16562670",
+            "name": "Home Thai",
+            "latitude": "-33.8746117452",
+            "longitude": "151.2042200938"
+        },
+        {
+            "id": "16559171",
+            "name": "Tetsuya's",
+            "latitude": "-33.8751428662",
+            "longitude": "151.2049315497"
+        },
+        {
+            "id": "16557783",
+            "name": "El Jannah",
+            "latitude": "-33.8328583097",
+            "longitude": "151.0110802576"
+        }
+    ]
+}
